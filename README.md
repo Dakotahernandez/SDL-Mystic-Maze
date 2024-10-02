@@ -1,5 +1,11 @@
 # SDL-Mystic-Maze
-
+Authors:
+Dakota Hernandez
+Griffin Roe
+Benjamin Collett
+Briel Finely
+Cameron Hardin
+Jonathan Humphries
 ## Textures:
 1. Draw whatever you want here, 25x25 works best:
    [Draw on Pixilart](https://www.pixilart.com/draw)

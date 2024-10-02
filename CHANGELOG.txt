@@ -1,0 +1,9 @@
+4/19 BEN
+- updated character.cpp 
+  - added print function for testing 
+  - added get location for key
+  - changed the x and y to be a point
+Key.cpp
+  - constructor creates it
+  - just have to call display in gameplay loop 
+  - maze is closed until key is picked up 
